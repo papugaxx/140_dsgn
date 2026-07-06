@@ -2,6 +2,17 @@
 
 Учебный Django-проект, доведённый до портфолио-уровня: сайт дизайн-студии с витриной услуг, портфолио, регистрацией клиентов, личным кабинетом и заказами с файлами.
 
+<img width="1353" height="917" alt="Снимок экрана 2026-07-06 135908" src="https://github.com/user-attachments/assets/ac2bbd9f-45fe-4816-a83a-40260f45839a" />
+
+<img width="1406" height="832" alt="Снимок экрана 2026-07-06 135902" src="https://github.com/user-attachments/assets/1b2632a4-b033-4ae9-bc47-aa32ddbe31ae" />
+
+<img width="1362" height="883" alt="Снимок экрана 2026-07-06 140008" src="https://github.com/user-attachments/assets/cc1a8ade-225d-45cb-8f37-101777b51446" />
+
+<img width="1326" height="931" alt="Снимок экрана 2026-07-06 140014" src="https://github.com/user-attachments/assets/1daba5e0-ccd9-4985-b8f7-383a0d0653db" />
+
+<img width="1367" height="799" alt="Снимок экрана 2026-07-06 140021" src="https://github.com/user-attachments/assets/f2c48553-72a9-4bd3-bc42-65cd1a12778a" />
+
+
 ## Возможности
 
 - Минималистичный тёмно-светлый интерфейс в стиле современной digital-студии
